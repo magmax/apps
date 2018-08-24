@@ -5,11 +5,10 @@ free to contribute (in the last section you can see how)
 
 {% for item in categories | dictsort %}
 ## {{ item[0]|capitalize }}
-
-{%- for app in item[1] | sort(attribute='name') %}
+{% for app in item[1] | sort(attribute='name') -%}
 - [{{ app.name }}]({{ app.url }}): {{ app.description }}
 {%- endfor %}
-{% endfor %}
+{%- endfor %}
 
 # Contribute
 
