@@ -1,0 +1,9 @@
+apps:
+- name: eGarante
+  url: https://www.egarante.com/
+  description: |
+    Digital certification of files, emails, etc. to exchange information
+  tags:
+  - documentation
+  - security
+  - forensic
