@@ -54,3 +54,11 @@ apps:
   - security
   - osint
   - web
+- name: theHarvester
+  web: https://github.com/laramies/theHarvester
+  description: |
+    Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
+    ports/ banners, and employee names from different public sources
+  tags:
+  - security
+  - osint
