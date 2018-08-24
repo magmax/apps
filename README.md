@@ -7,6 +7,9 @@ free to contribute (in the last section you can see how)
 ## Android
 - [Andriller](https://www.andriller.com/): Android Forensic Tools
 
+## Crawler
+- [HTTrack](https://www.httrack.com/): Web crawler to mirror a remote page
+
 ## Documentation
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 
@@ -14,8 +17,26 @@ free to contribute (in the last section you can see how)
 - [Andriller](https://www.andriller.com/): Android Forensic Tools
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 
+## Network
+- [whois](http://www.manpagez.com/man/1/whois/): Internet domain name and network number directory service
+
+## Osint
+- [HTTrack](https://www.httrack.com/): Web crawler to mirror a remote page
+- [whois](http://www.manpagez.com/man/1/whois/): Internet domain name and network number directory service
+
 ## Security
+- [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
+- [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project): Security tool that helps to find vulnerabilities in web applications.
+
+## Testing
+- [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
+- [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project): Security tool that helps to find vulnerabilities in web applications.
+
+## Web
+- [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
+- [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project): Security tool that helps to find vulnerabilities in web applications.
+- [whois](http://www.manpagez.com/man/1/whois/): Internet domain name and network number directory service
 
 
 # Contribute

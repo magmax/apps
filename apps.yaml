@@ -14,3 +14,34 @@ apps:
   tags:
   - android
   - forensic
+- name: HTTrack
+  url: https://www.httrack.com/
+  description: |
+    Web crawler to mirror a remote page
+  tags:
+  - crawler
+  - osint
+- name: whois
+  url: http://www.manpagez.com/man/1/whois/
+  description: |
+    Internet domain name and network number directory service
+  tags:
+  - osint
+  - network
+  - web
+- name: Burp Suite
+  url: https://portswigger.net/burp
+  description: |
+    Security tool that helps to find vulnerabilities in web applications.
+  tags:
+  - web
+  - security
+  - testing
+- name: OWASP ZAP
+  url: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
+  description: |
+    Security tool that helps to find vulnerabilities in web applications.
+  tags:
+  - web
+  - security
+  - testing
