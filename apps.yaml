@@ -55,10 +55,25 @@ apps:
   - osint
   - web
 - name: theHarvester
-  web: https://github.com/laramies/theHarvester
+  url: https://github.com/laramies/theHarvester
   description: |
     Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
     ports/ banners, and employee names from different public sources
   tags:
   - security
   - osint
+- name: recon-ng
+  url: https://bitbucket.org/LaNMaSteR53/recon-ng/
+  description: |
+    Tool for gathering information with Metasploit look & feel.
+  tags:
+  - security
+  - osint
+- name: metasploit
+  url: https://www.metasploit.com/
+  description: |
+    Penetration testing framework
+  tags:
+  - security
+  - osint
+  - pentesting

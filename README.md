@@ -24,17 +24,24 @@ free to contribute (in the last section you can see how)
 - [HTTrack](https://www.httrack.com/): Web crawler to mirror a remote page
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
-- [theHarvester](): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
+- [metasploit](https://www.metasploit.com/): Penetration testing framework
+- [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/): Tool for gathering information with Metasploit look & feel.
+- [theHarvester](https://github.com/laramies/theHarvester): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
 ports/ banners, and employee names from different public sources
 - [whois](http://www.manpagez.com/man/1/whois/): Internet domain name and network number directory service
+
+## Pentesting
+- [metasploit](https://www.metasploit.com/): Penetration testing framework
 
 ## Security
 - [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
+- [metasploit](https://www.metasploit.com/): Penetration testing framework
 - [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project): Security tool that helps to find vulnerabilities in web applications.
-- [theHarvester](): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
+- [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/): Tool for gathering information with Metasploit look & feel.
+- [theHarvester](https://github.com/laramies/theHarvester): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
 ports/ banners, and employee names from different public sources
 
 ## Testing
