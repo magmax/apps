@@ -45,3 +45,12 @@ apps:
   - web
   - security
   - testing
+- name: Maltego
+  url: https://www.paterva.com/web7/
+  description: |
+    Visual link analysis tool with tons of plugins to perform data mining and
+    information gathering
+  tags:
+  - security
+  - osint
+  - web
