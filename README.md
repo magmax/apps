@@ -10,6 +10,12 @@ free to contribute (in the last section you can see how)
 ## Crawler
 - [HTTrack](https://www.httrack.com/): Web crawler to mirror a remote page
 
+## Devops
+- [Ansible](None): Simple but powerful provisioning tool.
+- [Chef](https://www.chef.io/chef/): Provisioning tool based on recipes.
+- [Puppet](https://puppet.com/): Declarative provisioning tool.
+- [Salt Stack](https://saltstack.com/): Remote code execution and provisioning tool.
+
 ## Documentation
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 
@@ -32,6 +38,7 @@ free to contribute (in the last section you can see how)
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
 - [Metasploit](https://www.metasploit.com/): Penetration testing framework
+- [One million tweet map](https://onemilliontweetmap.com): Web to search in tweeter and see the twit location realtime.
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/): Tool for gathering information with Metasploit look & feel.
 - [theHarvester](https://github.com/laramies/theHarvester): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
 ports/ banners, and employee names from different public sources
@@ -40,6 +47,12 @@ ports/ banners, and employee names from different public sources
 ## Pentesting
 - [Metasploit](https://www.metasploit.com/): Penetration testing framework
 
+## Provisioning
+- [Ansible](None): Simple but powerful provisioning tool.
+- [Chef](https://www.chef.io/chef/): Provisioning tool based on recipes.
+- [Puppet](https://puppet.com/): Declarative provisioning tool.
+- [Salt Stack](https://saltstack.com/): Remote code execution and provisioning tool.
+
 ## Security
 - [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
@@ -47,6 +60,7 @@ ports/ banners, and employee names from different public sources
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
 - [Metasploit](https://www.metasploit.com/): Penetration testing framework
+- [One million tweet map](https://onemilliontweetmap.com): Web to search in tweeter and see the twit location realtime.
 - [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project): Security tool that helps to find vulnerabilities in web applications.
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/): Tool for gathering information with Metasploit look & feel.
 - [theHarvester](https://github.com/laramies/theHarvester): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open

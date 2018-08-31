@@ -92,3 +92,38 @@ apps:
   tags:
     - security
     - malware
+- name: One million tweet map
+  url: https://onemilliontweetmap.com
+  description: |
+    Web to search in tweeter and see the twit location realtime.
+  tags:
+  - security
+  - osint
+- name: Puppet
+  url: https://puppet.com/
+  description: |
+    Declarative provisioning tool.
+  tags:
+  - provisioning
+  - devops 
+- name: Chef
+  url: https://www.chef.io/chef/
+  description: |
+    Provisioning tool based on recipes.
+  tags:
+  - provisioning
+  - devops 
+- name: Salt Stack
+  url: https://saltstack.com/
+  description: |
+    Remote code execution and provisioning tool.
+  tags:
+  - provisioning
+  - devops
+- name: Ansible
+  url:
+  description: |
+    Simple but powerful provisioning tool.
+  tags:
+    - provisioning
+    - devops 
