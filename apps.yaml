@@ -81,3 +81,14 @@ apps:
   url: https://github.com/UnkL4b/GitMiner
   description: |
     Tool for advanced mining for content on Github 
+  tags:
+    - security
+    - osint
+    - dorks
+- name: VXVault
+  url: http://vxvault.net
+  description: |
+    Page to get malware for investigation purposes.
+  tags:
+    - security
+    - malware

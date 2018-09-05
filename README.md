@@ -13,36 +13,45 @@ free to contribute (in the last section you can see how)
 ## Documentation
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 
+## Dorks
+- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
+
 ## Forensic
 - [Andriller](https://www.andriller.com/): Android Forensic Tools
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
+
+## Malware
+- [VXVault](http://vxvault.net): Page to get malware for investigation purposes.
 
 ## Network
 - [whois](http://www.manpagez.com/man/1/whois/): Internet domain name and network number directory service
 
 ## Osint
+- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
 - [HTTrack](https://www.httrack.com/): Web crawler to mirror a remote page
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
-- [metasploit](https://www.metasploit.com/): Penetration testing framework
+- [Metasploit](https://www.metasploit.com/): Penetration testing framework
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/): Tool for gathering information with Metasploit look & feel.
 - [theHarvester](https://github.com/laramies/theHarvester): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
 ports/ banners, and employee names from different public sources
 - [whois](http://www.manpagez.com/man/1/whois/): Internet domain name and network number directory service
 
 ## Pentesting
-- [metasploit](https://www.metasploit.com/): Penetration testing framework
+- [Metasploit](https://www.metasploit.com/): Penetration testing framework
 
 ## Security
 - [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
+- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
-- [metasploit](https://www.metasploit.com/): Penetration testing framework
+- [Metasploit](https://www.metasploit.com/): Penetration testing framework
 - [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project): Security tool that helps to find vulnerabilities in web applications.
 - [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng/): Tool for gathering information with Metasploit look & feel.
 - [theHarvester](https://github.com/laramies/theHarvester): Tool for gathering subdomain names, e-mail addresses, virtual hosts, open
 ports/ banners, and employee names from different public sources
+- [VXVault](http://vxvault.net): Page to get malware for investigation purposes.
 
 ## Testing
 - [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
