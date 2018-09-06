@@ -29,6 +29,7 @@ apps:
   - osint
   - network
   - web
+  - whois
 - name: Burp Suite
   url: https://portswigger.net/burp
   description: |
@@ -121,9 +122,159 @@ apps:
   - provisioning
   - devops
 - name: Ansible
-  url:
+  url: https://www.ansible.com/
   description: |
     Simple but powerful provisioning tool.
   tags:
-    - provisioning
-    - devops 
+  - provisioning
+  - devops 
+- name: Rewardone OSCPRepo
+  url: https://github.com/rewardone/OSCPRepo
+  description: |
+    A list of commands, scripts, resources, and more gathered
+    to consolidate for use as OSCP study material
+  tags:
+  - oscp
+  - learning
+- name: Slyth11907 CheatSheets
+  url: https://github.com/slyth11907/Cheatsheets
+  description: |
+    CheatSheets to help for OSCP preparation.
+  tags:
+  - oscp
+  - cheatsheets
+- name: Burntmybagel OSCP-Prep
+  url: https://github.com/burntmybagel/OSCP-Prep
+  description: |
+    List of resources to prepare OSCP exam.
+  tags:
+  - oscp
+  - learning
+- name: Adon90 pentest_compilation
+  url: https://github.com/adon90/pentest_compilation
+  description: |
+    Compilation of commands, tips and scripts to help throughout Vulnhub,
+    Hackthebox, OSCP and real scenarios
+  tags:
+  - oscp
+  - learning
+- name: Zone-H
+  url: http://www.zone-h.org/archive
+  description:
+    Hacked sites compilation
+  tags:
+  - insecure
+- name: Internic Whois Search
+  url: http://www.internic.net/whois.html
+  description: |
+    Entrypoint to search information about Whois
+  tags:
+  - osint
+  - network
+  - web
+  - whois
+- name: Whoises
+  url: http://www.whoises.com/
+  description: |
+    Entrypoint to search information about Whois
+  tags: 
+  - osint
+  - network
+  - web
+  - whois
+- name: ActiveWhois
+  url: http://www.johnru.com/active-whois/  
+  description: |
+    Network tool for Windows to find any information about the
+    owners of IP address or Internet domain
+  tags:
+  - osint
+  - network
+  - web
+  - whois
+- name: Fping
+  url: https://fping.org/
+  description:
+    Program to send ICMP echo probes to network hosts, similar to ping,
+    but much better performing when pinging multiple hosts
+  tags:
+  - osint
+  - network
+  - ping
+- name: traceroute
+  url: http://man7.org/linux/man-pages/man8/traceroute.8.html
+  description: |
+    Tool to print the route packets trace to network host.
+  tags:
+  - traceroute
+  - network
+- name: tracert
+  url: https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491018(v=technet.10)
+  description: |
+    Traceroute for Windows.
+  tags:
+  - traceroute
+  - network
+- name: Monitis traceroute
+  url: http://www.monitis.com/traceroute/
+  description: |
+    Visual Traceroute tool.
+  tags:
+  - osint
+  - traceroute
+  - web
+- name: Ping.eu
+  url: https://ping.eu/
+  description: |
+    Collection of network tools to be run remotely from the web.
+  tags:
+  - whois
+  - traceroute
+  - dns
+  - nslookup
+  - network
+  - web
+  - security
+  - osint
+- name: nslookup
+  url: https://en.wikipedia.org/wiki/Nslookup
+  description: |
+    Network administration command-line tool available for many computer
+    operating systems for querying the Domain Name System (DNS) to obtain domain
+    name or IP address mapping or for any other specific DNS record.
+  tags:
+  - nslookup
+  - web
+  - osint
+- name: dig
+  url: ftp://ftp.isc.org/isc/bind9/cur/9.10/doc/arm/man.dig.html
+  description: |
+    network administration command-line tool for querying Domain Name System
+    (DNS) servers.
+  tags:
+  - nslookup
+  - web
+  - osint
+- name: dnsrecon
+  url: https://github.com/darkoperator/dnsrecon
+  description: |
+    DNS Enumeration Script
+  tags:
+  - nslookup
+  - web
+  - osint
+- name: Email Tracker Pro
+  url: http://www.emailtrackerpro.com/
+  description: |
+    Tool to extract details about email headers.
+  tags:
+  - osint
+  - email
+- name: mxtoolbox
+  url: https://mxtoolbox.com/
+  description: |
+    Web tool to list MX records for a domain in priority order.
+  tags:
+  - osint
+  - email
+  - nslookup
