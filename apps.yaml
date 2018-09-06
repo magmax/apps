@@ -278,3 +278,10 @@ apps:
   - osint
   - email
   - nslookup
+- name: MyIPSuite
+  url: http://www.fileprofile.com/Internet/dial_up_connection_tools/my_ip_suite/
+  description: |
+    Tool to track information about a web. May be discontinued.
+  tags:
+  - osint
+  - web

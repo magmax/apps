@@ -91,6 +91,7 @@ information gathering
 - [Metasploit](https://www.metasploit.com/): Penetration testing framework
 - [Monitis traceroute](http://www.monitis.com/traceroute/): Visual Traceroute tool.
 - [mxtoolbox](https://mxtoolbox.com/): Web tool to list MX records for a domain in priority order.
+- [MyIPSuite](http://www.fileprofile.com/Internet/dial_up_connection_tools/my_ip_suite/): Tool to track information about a web. May be discontinued.
 - [nslookup](https://en.wikipedia.org/wiki/Nslookup): Network administration command-line tool available for many computer
 operating systems for querying the Domain Name System (DNS) to obtain domain
 name or IP address mapping or for any other specific DNS record.
@@ -149,6 +150,7 @@ owners of IP address or Internet domain
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
 - [Monitis traceroute](http://www.monitis.com/traceroute/): Visual Traceroute tool.
+- [MyIPSuite](http://www.fileprofile.com/Internet/dial_up_connection_tools/my_ip_suite/): Tool to track information about a web. May be discontinued.
 - [nslookup](https://en.wikipedia.org/wiki/Nslookup): Network administration command-line tool available for many computer
 operating systems for querying the Domain Name System (DNS) to obtain domain
 name or IP address mapping or for any other specific DNS record.
