@@ -285,3 +285,90 @@ apps:
   tags:
   - osint
   - web
+- name: DNSenum
+  url: https://tools.kali.org/information-gathering/dnsenum
+  description: |
+    Multithreaded perl script to enumerate DNS information of a domain and to
+    discover non-contiguous ip blocks
+  tags:
+  - nslookup
+  - web
+  - osint
+- name: Homer
+  url: https://github.com/sipcapture/homer
+  description: |
+    SIP / VoIP Packet Capture & Monitoring.
+  tags:
+  - voip 
+  - network
+  - monitoring
+- name: Spider Foot
+  url: https://www.spiderfoot.net/ 
+  description: |
+    reconnaissance tool that automatically queries over 100 public data sources
+    (OSINT) to gather intelligence on IP addresses, domain names, e-mail
+    addresses, names and more.
+  tags:
+  - osint
+  - security
+  - web
+- name: Automater
+  url: http://www.tekdefense.com/automater/
+  description:  |
+    URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis
+    process easier for intrusion Analysts.
+  tags:
+  - osint
+  - security
+  - web
+- name: Foca
+  url: https://github.com/ElevenPaths/FOCA
+  description: |
+    Fingerprinting Organizations with Collected Archives: is a tool used mainly
+    to find metadata and hidden information in the documents its scans
+  tags:
+  - osint
+  - security
+  - web
+  - metadata
+- name: Metagoofil
+  url: http://www.edge-security.com/metagoofil.php
+  description: |
+    information gathering tool designed for extracting metadata of public
+    documents.
+  tags:
+  - osint
+  - security
+  - web
+  - metadata
+- name: Exiftool
+  url: https://www.sno.phy.queensu.ca/~phil/exiftool/
+  description: |
+    platform-independent Perl library plus a command-line application for
+    reading, writing and editing meta information in a wide variety of files
+  tags:
+  - osint
+  - security
+  - web
+  - metadata
+- name: Whatweb
+  url: https://www.morningstarsecurity.com/research/whatweb
+  description: |
+    Identify the technology stack that powers a website and explore the Web of
+    Things.
+  tags:
+  - osint
+  - security
+  - web
+  - network
+  - spider
+- name: wafw00f
+  url: https://github.com/EnableSecurity/wafw00f
+  description: |
+    Identify and fingerprint Web Application Firewall (WAF) products protecting
+    a website.
+  tags:
+  - security
+  - web
+  - firewall
+  - fingerprint
