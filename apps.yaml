@@ -372,3 +372,24 @@ apps:
   - web
   - firewall
   - fingerprint
+- name: Hershell
+  url: https://github.com/sysdream/hershell
+  description: |
+    Simple TCP reverse shell written in Go.
+  tags:
+    - security
+    - web
+    - meterpreter
+- name: Microsoft Virtual Machines
+  url: https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+  description: |
+    Windows virtual machines provided by Microsoft for different hypervisors,
+    like Virtualbox, VMWare, HyperV or Parallels.
+  tags:
+    - virtual machine
+- name: ADGuard
+  url: https://tb.rg-adguard.net/public.php
+  description: |
+    ISOs and virtual machines with Windows.
+  tags:
+    - virtual machine

@@ -64,6 +64,9 @@ to find metadata and hidden information in the documents its scans
 - [Metagoofil](http://www.edge-security.com/metagoofil.php): information gathering tool designed for extracting metadata of public
 documents.
 
+## Meterpreter
+- [Hershell](https://github.com/sysdream/hershell): Simple TCP reverse shell written in Go.
+
 ## Monitoring
 - [Homer](https://github.com/sipcapture/homer): SIP / VoIP Packet Capture & Monitoring.
 
@@ -163,6 +166,7 @@ reading, writing and editing meta information in a wide variety of files
 - [Foca](https://github.com/ElevenPaths/FOCA): Fingerprinting Organizations with Collected Archives: is a tool used mainly
 to find metadata and hidden information in the documents its scans
 - [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
+- [Hershell](https://github.com/sysdream/hershell): Simple TCP reverse shell written in Go.
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
 - [Metagoofil](http://www.edge-security.com/metagoofil.php): information gathering tool designed for extracting metadata of public
@@ -197,6 +201,11 @@ Things.
 - [traceroute](http://man7.org/linux/man-pages/man8/traceroute.8.html): Tool to print the route packets trace to network host.
 - [tracert](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491018(v=technet.10)): Traceroute for Windows.
 
+## Virtual machine
+- [ADGuard](https://tb.rg-adguard.net/public.php): ISOs and virtual machines with Windows.
+- [Microsoft Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/): Windows virtual machines provided by Microsoft for different hypervisors,
+like Virtualbox, VMWare, HyperV or Parallels.
+
 ## Voip
 - [Homer](https://github.com/sipcapture/homer): SIP / VoIP Packet Capture & Monitoring.
 
@@ -215,6 +224,7 @@ discover non-contiguous ip blocks
 reading, writing and editing meta information in a wide variety of files
 - [Foca](https://github.com/ElevenPaths/FOCA): Fingerprinting Organizations with Collected Archives: is a tool used mainly
 to find metadata and hidden information in the documents its scans
+- [Hershell](https://github.com/sysdream/hershell): Simple TCP reverse shell written in Go.
 - [Internic Whois Search](http://www.internic.net/whois.html): Entrypoint to search information about Whois
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
