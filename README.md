@@ -26,6 +26,8 @@ free to contribute (in the last section you can see how)
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 
 ## Dorks
+- [DorkMe](https://github.com/blueudp/DorkMe): Tool designed with the purpose of making easier the searching of
+vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
 - [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
 
 ## Email
@@ -113,6 +115,8 @@ process easier for intrusion Analysts.
 - [DNSenum](https://tools.kali.org/information-gathering/dnsenum): Multithreaded perl script to enumerate DNS information of a domain and to
 discover non-contiguous ip blocks
 - [dnsrecon](https://github.com/darkoperator/dnsrecon): DNS Enumeration Script
+- [DorkMe](https://github.com/blueudp/DorkMe): Tool designed with the purpose of making easier the searching of
+vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
 - [Email Tracker Pro](http://www.emailtrackerpro.com/): Tool to extract details about email headers.
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/): platform-independent Perl library plus a command-line application for
 reading, writing and editing meta information in a wide variety of files
@@ -155,6 +159,11 @@ Things.
 - [Chef](https://www.chef.io/chef/): Provisioning tool based on recipes.
 - [Puppet](https://puppet.com/): Declarative provisioning tool.
 - [Salt Stack](https://saltstack.com/): Remote code execution and provisioning tool.
+
+## Python
+- [Learn python](https://github.com/trekhleb/learn-python): collection of Python scripts that are split by topics and contain code
+examples with explanations, different use cases and links to further
+readings. 
 
 ## Security
 - [Automater](http://www.tekdefense.com/automater/): URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis
@@ -200,6 +209,11 @@ Things.
 - [Ping.eu](https://ping.eu/): Collection of network tools to be run remotely from the web.
 - [traceroute](http://man7.org/linux/man-pages/man8/traceroute.8.html): Tool to print the route packets trace to network host.
 - [tracert](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb491018(v=technet.10)): Traceroute for Windows.
+
+## Tutorial
+- [Learn python](https://github.com/trekhleb/learn-python): collection of Python scripts that are split by topics and contain code
+examples with explanations, different use cases and links to further
+readings. 
 
 ## Virtual machine
 - [ADGuard](https://tb.rg-adguard.net/public.php): ISOs and virtual machines with Windows.

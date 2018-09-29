@@ -393,3 +393,20 @@ apps:
     ISOs and virtual machines with Windows.
   tags:
     - virtual machine
+- name: DorkMe
+  url: https://github.com/blueudp/DorkMe
+  description: |
+    Tool designed with the purpose of making easier the searching of
+    vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
+  tags:
+    - dorks
+    - osint
+- name: Learn python
+  url: https://github.com/trekhleb/learn-python
+  description: |
+    collection of Python scripts that are split by topics and contain code
+    examples with explanations, different use cases and links to further
+    readings. 
+  tags:
+   - python
+   - tutorial
