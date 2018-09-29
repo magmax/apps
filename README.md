@@ -7,6 +7,9 @@ free to contribute (in the last section you can see how)
 ## Android
 - [Andriller](https://www.andriller.com/): Android Forensic Tools
 
+## Ceh
+- [Certified Ethical Hacker (CEH) online practice exam](https://ceh.cagy.org/): Practice exam for the CEH.
+
 ## Cheatsheets
 - [Slyth11907 CheatSheets](https://github.com/slyth11907/Cheatsheets): CheatSheets to help for OSCP preparation.
 
@@ -34,6 +37,10 @@ vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
 - [Email Tracker Pro](http://www.emailtrackerpro.com/): Tool to extract details about email headers.
 - [mxtoolbox](https://mxtoolbox.com/): Web tool to list MX records for a domain in priority order.
 
+## Exam
+- [Test your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills): A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam
+(2018 Edition). Test your knowledge in different fields with these Q/A.
+
 ## Fingerprint
 - [wafw00f](https://github.com/EnableSecurity/wafw00f): Identify and fingerprint Web Application Firewall (WAF) products protecting
 a website.
@@ -52,8 +59,11 @@ a website.
 - [Adon90 pentest_compilation](https://github.com/adon90/pentest_compilation): Compilation of commands, tips and scripts to help throughout Vulnhub,
 Hackthebox, OSCP and real scenarios
 - [Burntmybagel OSCP-Prep](https://github.com/burntmybagel/OSCP-Prep): List of resources to prepare OSCP exam.
+- [Certified Ethical Hacker (CEH) online practice exam](https://ceh.cagy.org/): Practice exam for the CEH.
 - [Rewardone OSCPRepo](https://github.com/rewardone/OSCPRepo): A list of commands, scripts, resources, and more gathered
 to consolidate for use as OSCP study material
+- [Test your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills): A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam
+(2018 Edition). Test your knowledge in different fields with these Q/A.
 
 ## Malware
 - [VXVault](http://vxvault.net): Page to get malware for investigation purposes.
@@ -110,6 +120,8 @@ to consolidate for use as OSCP study material
 owners of IP address or Internet domain
 - [Automater](http://www.tekdefense.com/automater/): URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis
 process easier for intrusion Analysts.
+- [Awesome OSINT](https://github.com/Ph055a/awesome_osint): This is a maintained collection of free actionable resources for those
+conducting OSINT investigations. 
 - [dig](ftp://ftp.isc.org/isc/bind9/cur/9.10/doc/arm/man.dig.html): network administration command-line tool for querying Domain Name System
 (DNS) servers.
 - [DNSenum](https://tools.kali.org/information-gathering/dnsenum): Multithreaded perl script to enumerate DNS information of a domain and to
@@ -168,7 +180,10 @@ readings.
 ## Security
 - [Automater](http://www.tekdefense.com/automater/): URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis
 process easier for intrusion Analysts.
+- [Awesome OSINT](https://github.com/Ph055a/awesome_osint): This is a maintained collection of free actionable resources for those
+conducting OSINT investigations. 
 - [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
+- [Certified Ethical Hacker (CEH) online practice exam](https://ceh.cagy.org/): Practice exam for the CEH.
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/): platform-independent Perl library plus a command-line application for
 reading, writing and editing meta information in a wide variety of files

@@ -408,5 +408,29 @@ apps:
     examples with explanations, different use cases and links to further
     readings. 
   tags:
-   - python
-   - tutorial
+    - python
+    - tutorial
+- name: Test your Sysadmin Skills
+  url: https://github.com/trimstray/test-your-sysadmin-skills
+  description: |
+    A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam
+    (2018 Edition). Test your knowledge in different fields with these Q/A.
+  tags:
+    - exam
+    - learning
+- name: Certified Ethical Hacker (CEH) online practice exam
+  url: https://ceh.cagy.org/
+  description: |
+    Practice exam for the CEH.
+  tags:
+    - ceh 
+    - security
+    - learning 
+- name: Awesome OSINT
+  url: https://github.com/Ph055a/awesome_osint
+  description: |
+    This is a maintained collection of free actionable resources for those
+    conducting OSINT investigations. 
+  tags:
+    - security
+    - osint
