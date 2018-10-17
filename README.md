@@ -7,6 +7,10 @@ free to contribute (in the last section you can see how)
 ## Android
 - [Andriller](https://www.andriller.com/): Android Forensic Tools
 
+## Ansible
+- [Awesome Ansible](https://github.com/jdauphant/awesome-ansible): List of Ansible resources
+- [Awesome Ansible](https://github.com/awesome-devops/awesome-ansible): List of Ansible resources
+
 ## Ceh
 - [Certified Ethical Hacker (CEH) online practice exam](https://ceh.cagy.org/): Practice exam for the CEH.
 

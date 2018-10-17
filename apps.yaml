@@ -434,3 +434,15 @@ apps:
   tags:
     - security
     - osint
+- name: Awesome Ansible
+  url: https://github.com/jdauphant/awesome-ansible
+  description: |
+    List of Ansible resources
+  tags:
+    - ansible
+- name: Awesome Ansible
+  url: https://github.com/awesome-devops/awesome-ansible
+  description: |
+    List of Ansible resources
+  tags:
+    - ansible
