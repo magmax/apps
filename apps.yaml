@@ -81,7 +81,7 @@ apps:
 - name: GitMiner
   url: https://github.com/UnkL4b/GitMiner
   description: |
-    Tool for advanced mining for content on Github 
+    Tool for advanced mining for content on Github
   tags:
     - security
     - osint
@@ -106,14 +106,14 @@ apps:
     Declarative provisioning tool.
   tags:
   - provisioning
-  - devops 
+  - devops
 - name: Chef
   url: https://www.chef.io/chef/
   description: |
     Provisioning tool based on recipes.
   tags:
   - provisioning
-  - devops 
+  - devops
 - name: Salt Stack
   url: https://saltstack.com/
   description: |
@@ -127,7 +127,7 @@ apps:
     Simple but powerful provisioning tool.
   tags:
   - provisioning
-  - devops 
+  - devops
 - name: Rewardone OSCPRepo
   url: https://github.com/rewardone/OSCPRepo
   description: |
@@ -177,13 +177,13 @@ apps:
   url: http://www.whoises.com/
   description: |
     Entrypoint to search information about Whois
-  tags: 
+  tags:
   - osint
   - network
   - web
   - whois
 - name: ActiveWhois
-  url: http://www.johnru.com/active-whois/  
+  url: http://www.johnru.com/active-whois/
   description: |
     Network tool for Windows to find any information about the
     owners of IP address or Internet domain
@@ -299,11 +299,11 @@ apps:
   description: |
     SIP / VoIP Packet Capture & Monitoring.
   tags:
-  - voip 
+  - voip
   - network
   - monitoring
 - name: Spider Foot
-  url: https://www.spiderfoot.net/ 
+  url: https://www.spiderfoot.net/
   description: |
     reconnaissance tool that automatically queries over 100 public data sources
     (OSINT) to gather intelligence on IP addresses, domain names, e-mail
@@ -406,7 +406,7 @@ apps:
   description: |
     collection of Python scripts that are split by topics and contain code
     examples with explanations, different use cases and links to further
-    readings. 
+    readings.
   tags:
     - python
     - tutorial
@@ -423,14 +423,14 @@ apps:
   description: |
     Practice exam for the CEH.
   tags:
-    - ceh 
+    - ceh
     - security
-    - learning 
+    - learning
 - name: Awesome OSINT
   url: https://github.com/Ph055a/awesome_osint
   description: |
     This is a maintained collection of free actionable resources for those
-    conducting OSINT investigations. 
+    conducting OSINT investigations.
   tags:
     - security
     - osint
@@ -446,3 +446,28 @@ apps:
     List of Ansible resources
   tags:
     - ansible
+- name: Getnada
+  url: https://getnada.com
+  description: |
+    Anonymous emails
+  tags:
+    - email
+- name: Tempail
+  url: https://tempail.com
+  description: |
+    Anonymous emails
+  tags:
+    - email
+- name: Minimail
+  url: https://minimail.eu.org
+  description: |
+    Anonymous emails
+  tags:
+    - email
+- name: Dnslog
+  url: http://dnslog.cn
+  description: |
+    Allows to create temporal subdomains, logging all accesses
+  tags:
+    - security
+    - dns
