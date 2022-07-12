@@ -27,6 +27,7 @@ free to contribute (in the last section you can see how)
 - [Salt Stack](https://saltstack.com/): Remote code execution and provisioning tool.
 
 ## Dns
+- [Dnslog](http://dnslog.cn): Allows to create temporal subdomains, logging all accesses
 - [Ping.eu](https://ping.eu/): Collection of network tools to be run remotely from the web.
 
 ## Documentation
@@ -35,11 +36,14 @@ free to contribute (in the last section you can see how)
 ## Dorks
 - [DorkMe](https://github.com/blueudp/DorkMe): Tool designed with the purpose of making easier the searching of
 vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
-- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
+- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
 
 ## Email
 - [Email Tracker Pro](http://www.emailtrackerpro.com/): Tool to extract details about email headers.
+- [Getnada](https://getnada.com): Anonymous emails
+- [Minimail](https://minimail.eu.org): Anonymous emails
 - [mxtoolbox](https://mxtoolbox.com/): Web tool to list MX records for a domain in priority order.
+- [Tempail](https://tempail.com): Anonymous emails
 
 ## Exam
 - [Test your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills): A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam
@@ -125,7 +129,7 @@ owners of IP address or Internet domain
 - [Automater](http://www.tekdefense.com/automater/): URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis
 process easier for intrusion Analysts.
 - [Awesome OSINT](https://github.com/Ph055a/awesome_osint): This is a maintained collection of free actionable resources for those
-conducting OSINT investigations. 
+conducting OSINT investigations.
 - [dig](ftp://ftp.isc.org/isc/bind9/cur/9.10/doc/arm/man.dig.html): network administration command-line tool for querying Domain Name System
 (DNS) servers.
 - [DNSenum](https://tools.kali.org/information-gathering/dnsenum): Multithreaded perl script to enumerate DNS information of a domain and to
@@ -138,7 +142,7 @@ vulnerabilities with Google Dorks, such as SQL Injection vulnerabilities.
 reading, writing and editing meta information in a wide variety of files
 - [Foca](https://github.com/ElevenPaths/FOCA): Fingerprinting Organizations with Collected Archives: is a tool used mainly
 to find metadata and hidden information in the documents its scans
-- [Fping](https://fping.org/): Program to send ICMP echo probes to network hosts, similar to ping, but much better performing when pinging multiple hosts- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
+- [Fping](https://fping.org/): Program to send ICMP echo probes to network hosts, similar to ping, but much better performing when pinging multiple hosts- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
 - [HTTrack](https://www.httrack.com/): Web crawler to mirror a remote page
 - [Internic Whois Search](http://www.internic.net/whois.html): Entrypoint to search information about Whois
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
@@ -179,21 +183,22 @@ Things.
 ## Python
 - [Learn python](https://github.com/trekhleb/learn-python): collection of Python scripts that are split by topics and contain code
 examples with explanations, different use cases and links to further
-readings. 
+readings.
 
 ## Security
 - [Automater](http://www.tekdefense.com/automater/): URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis
 process easier for intrusion Analysts.
 - [Awesome OSINT](https://github.com/Ph055a/awesome_osint): This is a maintained collection of free actionable resources for those
-conducting OSINT investigations. 
+conducting OSINT investigations.
 - [Burp Suite](https://portswigger.net/burp): Security tool that helps to find vulnerabilities in web applications.
 - [Certified Ethical Hacker (CEH) online practice exam](https://ceh.cagy.org/): Practice exam for the CEH.
+- [Dnslog](http://dnslog.cn): Allows to create temporal subdomains, logging all accesses
 - [eGarante](https://www.egarante.com/): Digital certification of files, emails, etc. to exchange information
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/): platform-independent Perl library plus a command-line application for
 reading, writing and editing meta information in a wide variety of files
 - [Foca](https://github.com/ElevenPaths/FOCA): Fingerprinting Organizations with Collected Archives: is a tool used mainly
 to find metadata and hidden information in the documents its scans
-- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github 
+- [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
 - [Hershell](https://github.com/sysdream/hershell): Simple TCP reverse shell written in Go.
 - [Maltego](https://www.paterva.com/web7/): Visual link analysis tool with tons of plugins to perform data mining and
 information gathering
@@ -232,7 +237,7 @@ Things.
 ## Tutorial
 - [Learn python](https://github.com/trekhleb/learn-python): collection of Python scripts that are split by topics and contain code
 examples with explanations, different use cases and links to further
-readings. 
+readings.
 
 ## Virtual machine
 - [ADGuard](https://tb.rg-adguard.net/public.php): ISOs and virtual machines with Windows.
