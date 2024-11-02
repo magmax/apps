@@ -486,3 +486,12 @@ apps:
   tags:
     - security
     - search engine
+- name: Certificate Search
+  url: https://crt.sh
+  description: |
+    Search engine by certificates
+  tags:
+    - security
+    - search engine
+    - ssl
+
